@@ -15,6 +15,10 @@
 #define WITDH_SIZE 15
 #define HEIGHT_SIZE 15
 
+// 화살표 방향키로 돌을 움직이고 스페이스바, 엔터키로 돌을 놓을 수 있습니다.
+// r 키를 누르면 게임을 리셋시킬 수 있습니다.
+// q 키를 누르면 게임을 종료할 수 있습니다.
+
 char turn = 0,
 bwin = 0,
 wwin = 0;
@@ -139,7 +143,7 @@ void draw_board(void)
 			else {
 				if (by != 1 && by != HEIGHT_SIZE)
 				{
-					switch (board[by][bx]) // 오목알 표시
+					switch (board[by][bx]) 
 					{
 					case 0:
 						if (bx == 1) printf("┠");

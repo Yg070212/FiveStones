@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\FiveStones\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\FiveStones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1CC7D7-A546-49A2-8216-104D2B7EB51B}|FiveStones\\FiveStones.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\FiveStones\\FiveStones\\Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C1CC7D7-A546-49A2-8216-104D2B7EB51B}|FiveStones\\FiveStones.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\FiveStones\\FiveStones\\Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C1CC7D7-A546-49A2-8216-104D2B7EB51B}|FiveStones\\FiveStones.vcxproj|solutionrelative:FiveStones\\Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.c",
-              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\FiveStones\\FiveStones\\Game.c",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\FiveStones\\FiveStones\\Game.c",
               "RelativeDocumentMoniker": "FiveStones\\Game.c",
-              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\FiveStones\\FiveStones\\Game.c",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\FiveStones\\FiveStones\\Game.c",
               "RelativeToolTip": "FiveStones\\Game.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-05T17:33:44.491Z",
+              "WhenOpened": "2025-01-06T09:27:32.267Z",
               "EditorCaption": ""
             }
           ]
